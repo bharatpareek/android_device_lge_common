@@ -1,2 +1,2 @@
 # Sysfs
-type sysfs_gestures, sysfs_type, fs_type;
+# type sysfs_gestures, sysfs_type, fs_type;
